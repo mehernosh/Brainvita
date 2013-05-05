@@ -1,0 +1,44 @@
+
+ 
+ The rules of the games are as follows :
+	1.	
+	There are a set of marbles placed on the board
+ 	with only the centre portion left vacant. All
+ 	you have to do is move one marble over the
+ 	other either horizontally or vertically
+ 	(diagonal moves are not allowed). As soon as
+ 	you do this, the marble over which you took
+ 	the other marble disappears.
+
+	2.	
+	Continue moving one marble over the till you
+ 	have no other option.
+
+
+ The aim of the game to leave only ONE marble on the  board.
+
+ Controls :
+	Click once on a marble to select it. Then
+ 	click on an empty place to jump the marble
+ 	over ONE marble in between the selected marble
+ 	and the empty place.
+
+	Undo:
+	Click on the Undo button to undo your last
+ 	move. This can be done as many times till the
+ 	game resets itself.
+
+	Reset:
+	Click on the Reset button to reset the board
+	i.e. to start over again.
+
+	Exit:
+	Click on the Exit button to exit the game.
+
+ Scores :
+ ONE marble on the board - You are a genius
+ TWO marbles on the board - You are intelligent
+ THREE marbles on the board - You are average
+ FOUR or MORE marbles on the board - You need to practice
+
+
